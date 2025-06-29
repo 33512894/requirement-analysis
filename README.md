@@ -54,3 +54,5 @@ Protection against vulnerabilities.
 Use Case Diagrams
 What are Use Case Diagrams?
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+![Booking Use Case Diagram](images/alx-booking-uc.png)
