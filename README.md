@@ -55,6 +55,7 @@ Use Case Diagrams
 What are Use Case Diagrams?
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 
-https://app.eraser.io/workspace/m2qx4pxcSCDsiKClUiJN?origin=share&elements=e0NETs6vukagcsv_kYBIMw
+images
+alx-booking-uc.png
 
 ![Booking Use Case Diagram](images/alx-booking-uc.png)
